@@ -6,5 +6,5 @@ a = np.sin(np.pi/2
 print(a)
 
 
-b = np.
+b = np.sin(3)
 
