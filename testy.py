@@ -6,5 +6,5 @@ a = np.sin(np.pi/2
 print(a)
 
 
-b = np.sin(3)
+b = np.tan(33)
 
